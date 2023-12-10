@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CRUD</string>
+    <string-array name="Items_Option">
+        <item>ubah</item>
+        <item>Hapus</item>
+        <item>Batal</item>
+    </string-array>
+</resources>
